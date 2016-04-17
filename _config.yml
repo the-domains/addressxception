@@ -2,6 +2,7 @@ name: AddressXception
 favicon: null
 layout_spectrum: 0.03363486798480153
 typography_spectrum: 0.4754048229660839
+title: A blog about software
 cta:
   domain: null
   bucket: null
